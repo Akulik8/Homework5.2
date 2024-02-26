@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Homework5.2</string>
+    <string name="click">Empty</string>
+    <string name="btn">Click Me!</string>
+    <string name="hello">Привет, Anonimous!</string>
+    <string name="name">Введите имя</string>
+    <string name="edit">Изменить</string>
+</resources>
